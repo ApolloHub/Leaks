@@ -1,0 +1,6 @@
+function DarkHub(script, crack)
+if script==false and crack==true then
+return "Trolled"
+end
+end
+print(DarkHub(false, true))
