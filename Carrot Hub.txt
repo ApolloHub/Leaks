@@ -1,0 +1,6 @@
+function KiriotHub(script, crack)
+if script==false and crack==true then
+return "Trolled"
+end
+end
+print(KiriotHub(false, true))
