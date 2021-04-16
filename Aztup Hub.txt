@@ -1,6 +1,71 @@
-function AztupHub(script, crack)
-if script==false and crack==true then
-return "Trolled"
-end
-end
-print(AztupHub(false, true))
+--USING ASS WHIFFER API V3
+--CRACKED BY XXFLORALMAMBAJUICEWITHARIZONA23X23X254SHESHESHESHE
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local AztupHubV4 = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local CheeseDogWafer = Instance.new("TextButton")
+local AssWhiff = Instance.new("TextButton")
+local LazurPeneAzul = Instance.new("TextButton")
+
+--Properties:
+
+AztupHubV4.Name = "Aztup Hub V4"
+AztupHubV4.Parent = game.CoreGui
+
+Frame.Parent = AztupHubV4
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.00764006749, 0, 0.568533957, 0)
+Frame.Size = UDim2.new(0, 328, 0, 228)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(101, 124, 255)
+TextLabel.BorderSizePixel = 0
+TextLabel.Size = UDim2.new(0, 328, 0, 36)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "AZTUP HUB v3"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+CheeseDogWafer.Name = "CheeseDogWafer"
+CheeseDogWafer.Parent = Frame
+CheeseDogWafer.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CheeseDogWafer.Position = UDim2.new(0.0365853645, 0, 0.227307409, 0)
+CheeseDogWafer.Size = UDim2.new(0, 300, 0, 50)
+CheeseDogWafer.Font = Enum.Font.SourceSans
+CheeseDogWafer.Text = "Cheese dog wafer dust gui"
+CheeseDogWafer.TextColor3 = Color3.fromRGB(0, 0, 0)
+CheeseDogWafer.TextScaled = true
+CheeseDogWafer.TextSize = 14.000
+CheeseDogWafer.TextWrapped = true
+
+AssWhiff.Name = "AssWhiff"
+AssWhiff.Parent = Frame
+AssWhiff.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AssWhiff.Position = UDim2.new(0.0365853645, 0, 0.483981729, 0)
+AssWhiff.Size = UDim2.new(0, 300, 0, 50)
+AssWhiff.Font = Enum.Font.SourceSans
+AssWhiff.Text = "Depiclonomario Ravelion Villiano"
+AssWhiff.TextColor3 = Color3.fromRGB(0, 0, 0)
+AssWhiff.TextScaled = true
+AssWhiff.TextSize = 14.000
+AssWhiff.TextWrapped = true
+
+LazurPeneAzul.Name = "LazurPeneAzul"
+LazurPeneAzul.Parent = Frame
+LazurPeneAzul.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LazurPeneAzul.Position = UDim2.new(0.0365853608, 0, 0.733409643, 0)
+LazurPeneAzul.Size = UDim2.new(0, 300, 0, 50)
+LazurPeneAzul.Font = Enum.Font.SourceSans
+LazurPeneAzul.Text = "Woof lazur Pene Azul Hub"
+LazurPeneAzul.TextColor3 = Color3.fromRGB(0, 0, 0)
+LazurPeneAzul.TextScaled = true
+LazurPeneAzul.TextSize = 14.000
+LazurPeneAzul.TextWrapped = true
