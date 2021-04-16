@@ -1,0 +1,6 @@
+function BruhHub(script, crack)
+if script==false and crack==true then
+return "Trolled"
+end
+end
+print(BruhHub(false, true))
