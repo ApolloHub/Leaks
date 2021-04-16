@@ -1,0 +1,6 @@
+function Kesh(script, crack)
+if script==false and crack==true then
+return "gtfo"
+end
+end
+print(Kesh(false, true))
