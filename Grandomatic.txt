@@ -1,0 +1,6 @@
+function Grandomatic(script, crack)
+if script==false and crack==true then
+return "gtfo"
+end
+end
+print(Ehubptiv(false, true))
