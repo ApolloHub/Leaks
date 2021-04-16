@@ -1,0 +1,6 @@
+function Kinx(script, crack)
+if script==false and crack==true then
+return "Just look it up"
+end
+end
+print(Kinx(false, true))
