@@ -1,0 +1,6 @@
+function Ehubptiv(script, crack)
+if script==false and crack==true then
+return "$$$ Trolled $$$"
+end
+end
+print(Ehubptiv(false, true))
