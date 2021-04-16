@@ -1,0 +1,6 @@
+function AztupHub(script, crack)
+if script==false and crack==true then
+return "Trolled"
+end
+end
+print(AztupHub(false, true))
