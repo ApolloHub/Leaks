@@ -1,6 +1,155 @@
-function LunarHub(script, crack)
-if script==false and crack==true then
-return "Trolled"
-end
-end
-print(LunarHub(false, true))
+--CRACKED BY ROGANSTER SEBASTIANESPANOL21 $$$$$$$$ MONEY SHIT BITCHES %%%%$%$%$@#$@#$@#$$$$$$
+--SEBASTIANESPANOL21 WAS HERE
+local LunarHub = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+local TextLabel_4 = Instance.new("TextLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local TextLabel_6 = Instance.new("TextLabel")
+local TextLabel_7 = Instance.new("TextLabel")
+local TextLabel_8 = Instance.new("TextLabel")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local TextButton_3 = Instance.new("TextButton")
+
+--Properties:
+
+LunarHub.Name = "Lunar Hub"
+LunarHub.Parent = game.CoreGui
+LunarHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = LunarHub
+Frame.BackgroundColor3 = Color3.fromRGB(161, 94, 255)
+Frame.Position = UDim2.new(0.00679117441, 0, 0.39094159, 0)
+Frame.Size = UDim2.new(0, 629, 0, 492)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.00158982514, 0, 0.18699187, 0)
+TextLabel.Size = UDim2.new(0, 628, 0, 255)
+TextLabel.Font = Enum.Font.Code
+TextLabel.Text = "LUNAR HUB"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+TextLabel_2.Parent = Frame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0, 0, 0.345528454, 0)
+TextLabel_2.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_2.Font = Enum.Font.Code
+TextLabel_2.Text = "LUNAR HUB"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+TextLabel_3.Parent = Frame
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0.00158982514, 0, 0.520325184, 0)
+TextLabel_3.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_3.Font = Enum.Font.Code
+TextLabel_3.Text = "LUNAR HUB"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+TextLabel_4.Parent = Frame
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0, 0, 0.613821149, 0)
+TextLabel_4.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_4.Font = Enum.Font.Code
+TextLabel_4.Text = "LUNAR HUB"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextScaled = true
+TextLabel_4.TextSize = 14.000
+TextLabel_4.TextWrapped = true
+
+TextLabel_5.Parent = Frame
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BackgroundTransparency = 1.000
+TextLabel_5.Position = UDim2.new(0.0206677262, 0, 0.0792682767, 0)
+TextLabel_5.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_5.Font = Enum.Font.Code
+TextLabel_5.Text = "LUNAR HUB"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextScaled = true
+TextLabel_5.TextSize = 14.000
+TextLabel_5.TextWrapped = true
+
+TextLabel_6.Parent = Frame
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BackgroundTransparency = 1.000
+TextLabel_6.Position = UDim2.new(0.0524642318, 0, -0.0325203389, 0)
+TextLabel_6.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_6.Font = Enum.Font.Code
+TextLabel_6.Text = "LUNAR HUB"
+TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.TextScaled = true
+TextLabel_6.TextSize = 14.000
+TextLabel_6.TextWrapped = true
+
+TextLabel_7.Parent = Frame
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.BackgroundTransparency = 1.000
+TextLabel_7.Position = UDim2.new(3.7252903e-09, 0, -0.142276436, 0)
+TextLabel_7.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_7.Font = Enum.Font.Code
+TextLabel_7.Text = "LUNAR HUB"
+TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.TextScaled = true
+TextLabel_7.TextSize = 14.000
+TextLabel_7.TextWrapped = true
+
+TextLabel_8.Parent = Frame
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.BackgroundTransparency = 1.000
+TextLabel_8.Position = UDim2.new(3.7252903e-09, 0, -0.199187011, 0)
+TextLabel_8.Size = UDim2.new(0, 628, 0, 255)
+TextLabel_8.Font = Enum.Font.Code
+TextLabel_8.Text = "LUNAR HUB"
+TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.TextScaled = true
+TextLabel_8.TextSize = 14.000
+TextLabel_8.TextWrapped = true
+
+TextButton.Parent = LunarHub
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.Position = UDim2.new(0.0178268254, 0, 0.402860552, 0)
+TextButton.Size = UDim2.new(0, 182, 0, 175)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "GRAND GERM"
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+
+TextButton_2.Parent = LunarHub
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.Position = UDim2.new(0.187606111, 0, 0.717520833, 0)
+TextButton_2.Size = UDim2.new(0, 182, 0, 175)
+TextButton_2.Font = Enum.Font.SourceSans
+TextButton_2.Text = "CANCER HYB"
+TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.TextScaled = true
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+
+TextButton_3.Parent = LunarHub
+TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.Position = UDim2.new(0.372665524, 0, 0.461263388, 0)
+TextButton_3.Size = UDim2.new(0, 182, 0, 175)
+TextButton_3.Font = Enum.Font.SourceSans
+TextButton_3.Text = "DURK HUB"
+TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_3.TextScaled = true
+TextButton_3.TextSize = 14.000
+TextButton_3.TextWrapped = true
