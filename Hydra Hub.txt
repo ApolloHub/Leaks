@@ -1,6 +1,47 @@
-function RoboticHydra(script, crack)
-if script==false and crack==true then
-return "Poo"
-end
-end
-print(RoboticHydra(false, true))
+--cracked by jurmeijjieagha & xxxiinubliniecornatoflapasocortapenebranomarionix
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local Hydruh = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local Frame_2 = Instance.new("Frame")
+local TextButton = Instance.new("TextButton")
+
+--Properties:
+
+Hydruh.Name = "Hydruh"
+Hydruh.Parent = game.CoreGui
+Hydruh.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = Hydruh
+Frame.BackgroundColor3 = Color3.fromRGB(54, 31, 66)
+Frame.Position = UDim2.new(0.00764006376, 0, 0.847437441, 0)
+Frame.Size = UDim2.new(0, 311, 0, 23)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Size = UDim2.new(0, 282, 0, 23)
+TextLabel.Font = Enum.Font.Creepster
+TextLabel.Text = "HYDRA HUB"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_2.Position = UDim2.new(-0.00110274553, 0, 1.10675228, 0)
+Frame_2.Size = UDim2.new(0, 311, 0, 84)
+
+TextButton.Parent = Frame_2
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.Position = UDim2.new(0.176848873, 0, 0.119047619, 0)
+TextButton.Size = UDim2.new(0, 200, 0, 50)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "Club Morado v3 TPCOCK"
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextSize = 14.000
