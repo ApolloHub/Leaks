@@ -1,0 +1,6 @@
+function LunarHub(script, crack)
+if script==false and crack==true then
+return "Trolled"
+end
+end
+print(LunarHub(false, true))
