@@ -1,0 +1,6 @@
+function Linoria(script, crack)
+if script==false and crack==true then
+return "bruh gtfo"
+end
+end
+print(Linoria(false, true))
