@@ -1,0 +1,7 @@
+
+function Wallythebird(script, crack)
+if script==false and crack==true then
+return "No"
+end
+end
+print(Wallythebird(false, true))
