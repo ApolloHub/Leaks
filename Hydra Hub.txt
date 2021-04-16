@@ -1,0 +1,6 @@
+function RoboticHydra(script, crack)
+if script==false and crack==true then
+return "Poo"
+end
+end
+print(RoboticHydra(false, true))
